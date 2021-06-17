@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitorBando
 - 👀 I’m interested in HTML, CSS, JAVA, javascript
-- 📚 I’m currently learning JAVA, HTML e CSS
+- 📚 I’m currently learning JAVA, HTML, CSS e javascript
 - 💞️ I’m looking to collaborate on code revision and analyse 
 - 📫 How to reach me https://www.linkedin.com/in/vitorbando/
 
