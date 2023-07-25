@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VitorBando
-- 👀 I’m interested in JAVA, SQL, Python
-- 📚 I’m currently learning JAVA, Python
+- 👀 I’m interested in SQL, Python, R
+- 📚 I’m currently learning Python, R, SQL
 - 💞️ I’m looking to collaborate on code revision and analyse 
 - 📫 How to reach me https://www.linkedin.com/in/vitorbando/
 
