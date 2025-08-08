@@ -1,7 +1,10 @@
 # Vitor Bando
 
-🎯 Estudando **Desenvolvimento de Sistemas Web e Desktop**, com foco em migração de carreira para a área de tecnologia.  
-🚀 Apaixonado por tecnologia e inovação, atualmente participo de bootcamps com ênfase em **.NET** para aprimorar meus conhecimentos práticos.
+### Um pouco mais sobre mim...
+
+👨‍💻 Desenvolvedor Web Backend com foco em **Python** e **Django**  
+📊 Experiência com **dados**, **bancos relacionais**, análise e modelagem  
+🧠 Estudando **Cloud Computing**, **APIs**, **IA** e aplicações escaláveis
 
 ---
 
